@@ -1,5 +1,7 @@
 package javaPractice;
 
+import java.util.ArrayList;
+
 public class AmazonProblem4_Arrays {
 
 	public static void main(String[] args) {
@@ -19,6 +21,7 @@ public class AmazonProblem4_Arrays {
 				max1=a1[i];
 				
 			}
+	
 			//System.out.println(a2[i] +"  >> "+i +a2.length);
 			if(i<=x && a2[i]>max2){
 				//System.out.println(i);
